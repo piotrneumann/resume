@@ -37,7 +37,7 @@ PHOTO (AVATAR)
 }
 #photo{
   width: 160px;
-  height: 160px;
+  height: 170px;
   border-radius: 50%;
   overflow: hidden;
   padding: 5px;
@@ -46,7 +46,7 @@ PHOTO (AVATAR)
 }
 #photo img{
   width: 150px;
-  height: 150px;
+  height: 160px;
   border-radius: 50%;
 }
 #text-header h1{
