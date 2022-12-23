@@ -94,7 +94,7 @@ DEFAULT BOX
   margin-right: 5px;
 }
 .box p{
-  font-size: 1.3em;
+  font-size: 1.4em;
   line-height: 1.5em;
 }
 /*******************************************
@@ -190,7 +190,7 @@ EXPERIENCES
   font-weight: bold;
 }
 .job .description{
-  font-size: 1.2em;
+  font-size: 1.25em;
   line-height: 1.5em;
 }
 /*******************************************
@@ -314,7 +314,7 @@ HOBBIES
   margin-right: 5px;
   margin-bottom: 5px;
   padding: 5px 5px 5px 25px;
-  background: #A75265;
+  background: #333f86;
   position: relative;
   font-size: 1.2em;
 }
